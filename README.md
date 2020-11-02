@@ -1,16 +1,16 @@
 ### Hi there 👋
+## I'm Alexander Yershov. Nice to meet you!
 
 ![GitHub Stats!](https://github-readme-stats.vercel.app/api?username=oyershov&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&count_private=true)
 
-The name's Alexander. Nice to meet you!
-
-- 👨‍💻 I'm software engeneer with over 4 years of experience in building, developing and managing applications. I'm passionate about front-end technologies (typescript, react, redux, react native and other cool things). For over a year I have led teams of varying sizes (2-10 devs) and experience (Jr.-Sr.). I have extensive experience in onboarding and mentoring new devs.
+- 🚀 I'm software engeneer with over 4 years of experience in building, developing and managing applications. I'm passionate about front-end technologies (typescript, react, redux, react native and other cool things). For over a year I have led teams of varying sizes (2-10 devs) and experience (Jr.-Sr.). I have extensive experience in onboarding and mentoring new devs.
 
 - 🔭 I’m currently working with cryptocurrency exchanges. This is a very, very interesting thing!
 
 - 🤓 I graduated with a bachelor's degree in computer science in biology and medicine from the National Technical University of Ukraine 'Kyiv Polytechnic Institute'. 
 
-- 📫 Now I live in Prague, Czech Republic, which is a really beautiful country. Working remotely due to coronavirus on the streets😷
+- 📫 Now I live in Prague, Czech Republic, which is a really beautiful country.
+- 👨‍💻 Working remotely due to coronavirus on the streets😷
 
 Thanks for visiting, stay healthy!
 
