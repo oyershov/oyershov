@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Alexander Yershov. Nice to meet you!
+## I'm Oleksandr Yershov. Nice to meet you!
 
 ![GitHub Stats!](https://github-readme-stats.vercel.app/api?username=oyershov&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&count_private=true)
 
