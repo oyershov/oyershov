@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Oleksandr Yershov. Nice to meet you!
 
-![GitHub Stats!](https://github-readme-stats.vercel.app/api?username=oyershov&show_icons=true&icon_color=0366d6&bg_color=00000000&text_color=6a737d&hide_title=true&count_private=true)
+![GitHub Stats!](https://github-readme-stats.vercel.app/api?username=oyershov&show_icons=true&icon_color=0366d6&bg_color=00000000&text_color=7043c1&hide_title=true&count_private=true)
 
 - 🚀 I'm software engeneer with over 4 years of experience in building, developing and managing applications. I'm passionate about front-end technologies (typescript, react, redux, react native and other cool things). For over a year I have led teams of varying sizes (2-10 devs) and experience (Jr.-Sr.). I have extensive experience in onboarding and mentoring new devs.
 
