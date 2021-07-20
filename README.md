@@ -12,6 +12,14 @@
 
 - 📫 Now I live in Prague, Czech Republic.
 
+## 2021 ToDo
+
+- coding challanges (public version)
+- react-iframe-app **with an article**
+- react-create-dapp **with an article**
+- js calculations **with an article**
+- linkedin + github polish
+
 **oyershov/oyershov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
