@@ -12,6 +12,8 @@
 
 Thanks for visiting, stay healthy!
 
+![Alt Text](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
+
 <!--
 **oyershov/oyershov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
