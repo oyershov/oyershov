@@ -1,13 +1,7 @@
-![Alt Text](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
-
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>![Alt Text](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)</td>
+    <td>Lorem ipsum ..</td>
  </tr>
 </table>
 
