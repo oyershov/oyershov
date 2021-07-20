@@ -1,9 +1,4 @@
-<table border="0">
- <tr>
-    <td>![Alt Text](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)</td>
-    <td>Lorem ipsum ..</td>
- </tr>
-</table>
+![Alt Text](https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif)
 
 <!--
 ### Hi there 👋
