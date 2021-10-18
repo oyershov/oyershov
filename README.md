@@ -1,4 +1,4 @@
-![Alt Text](https://tenor.com/view/typing-jim-carrey-feeling-it-gif-6030269)
+![Alt Text](https://c.tenor.com/fhfM95lJ9hcAAAAC/typing-jim-carrey.gif)
 
 <!--
 ### Hi there 👋
