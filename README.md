@@ -1,4 +1,7 @@
-![Alt Text](https://c.tenor.com/fhfM95lJ9hcAAAAC/typing-jim-carrey.gif)
+<p align="center">
+  <img src="https://c.tenor.com/fhfM95lJ9hcAAAAC/typing-jim-carrey.gif" alt="typing Jim Carrey"/>
+</p>
+
 
 <!--
 ### Hi there 👋
